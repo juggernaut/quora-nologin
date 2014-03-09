@@ -1,4 +1,4 @@
-Quora no login plugin
-=====================
+Quora no login extension for Firefox
+====================================
 
-Adds `?share=1` to quora URLs so that you don't need to log in and bypass the annoying popup.
+Bypasses the annoying login popup and displays the page content unblurred.
