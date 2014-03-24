@@ -4,6 +4,6 @@
   "id": "jid1-1hn4WuiIGIK3jw",
   "description": "Bypasses the quora login popup",
   "author": "Ameya Lokare",
-  "license": "Apache 2.0",
+  "license": "MIT",
   "version": "1.1"
 }
