@@ -8,11 +8,11 @@ the page content unblurred.
 Installing
 ----------
 
-Download the latest release `quoranologin.xpi` from [here](https://github.com/juggernaut/quora-nologin/releases) and open it in Firefox.
+Download the latest release of `quora-nologin.xpi` from [here](https://github.com/juggernaut/quora-nologin/releases) and open it in Firefox.
 
 How it works
 ------------
 
-The plugin adds a `share=1` parameter to all Quora URLs. This is, in fact, encouraged by Quora. See http://blog.quora.com/Making-Sharing-Better
+The plugin adds a `share=1` parameter to all Quora URLs. This is the recommended method for sharing by Quora. See http://blog.quora.com/Making-Sharing-Better
 
 
