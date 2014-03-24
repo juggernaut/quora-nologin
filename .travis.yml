@@ -1,0 +1,8 @@
+before_install:
+  - wget https://ftp.mozilla.org/pub/mozilla.org/labs/jetpack/jetpack-sdk-latest.tar.gz
+  - tar -xzf jetpack-sdk-latest.tar.gz
+  - cd addon-sdk*
+  - source bin/activate
+  - cd ..
+
+script: cfx --verbose test
